@@ -101,7 +101,7 @@ body{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(../image/bg-pizza.jpg);
+  background: url(bg-pizza.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -149,7 +149,7 @@ body{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(../image/bg-about.jpg);
+  background: url(bg-about.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
